@@ -1,0 +1,7 @@
+D:\Carla_Scratch\G29Module\obj\Debug\G29Module.csproj.AssemblyReference.cache
+D:\Carla_Scratch\G29Module\obj\Debug\G29Module.csproj.CoreCompileInputs.cache
+D:\Carla_Scratch\G29Module\bin\Debug\G29Module.exe.config
+D:\Carla_Scratch\G29Module\bin\Debug\G29Module.exe
+D:\Carla_Scratch\G29Module\bin\Debug\G29Module.pdb
+D:\Carla_Scratch\G29Module\obj\Debug\G29Module.exe
+D:\Carla_Scratch\G29Module\obj\Debug\G29Module.pdb
